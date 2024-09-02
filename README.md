@@ -92,4 +92,4 @@ La librería Matplotib se usa para visuzalización de las estadísticas y la lib
 
 ## Uso del código 
 Todos los bloques de código se encuentran en el archivo .ipynb y el set de datos en el arhivo .csv.
-Para utilizarlo descargar los archivos csv, copie el cuaderno y ejecutar los bloques de código.
+Para utilizarlo descargar los archivos csv, copie el cuaderno y ejecute los bloques de código.
